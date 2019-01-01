@@ -136,13 +136,16 @@ body {
 }
 
 .contact-content {
+	margin-top: 50px;
 	position: absolute;
 	top: 200px;
 	right: 200px;
 }
 
 #map {
-	height: 75%;
+	margin-top: 50px;
+	height: 610px;
+	width: 1080px;
 }
 
 .contact-address {
