@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function(){
   Typed.new('.intro-text', {
-    strings: ["^600 Kumar Shraiyash.", "^600 a  Full stack Developer.", "^1000 an Java developer.", "^600 a React Developer.", "^600 an Angular Developer."],
+    strings: ["^600 Kumar Shraiyash.", "^600 a  Full stack Developer.", "^1000 a Java developer.", "^600 a React Developer.", "^600 an Angular Developer."],
     typeSpeed: 0,
     startDelay: 1000,
     loop: true
