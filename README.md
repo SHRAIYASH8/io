@@ -1,1 +1,1 @@
-http://shraiyash.xyz/
+http://shraiyash.com/
